@@ -1,5 +1,7 @@
 # latte-panda-v1-shield
+
 altium library for lattepanda v1
+
 used available schematic, but build new footprint for it based 3d-step file
 
 
